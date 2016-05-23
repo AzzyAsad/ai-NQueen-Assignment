@@ -3,6 +3,7 @@ import java.util.Random;
 
 public class Main {
 	public static void main(String[] args) {
+		//Editing code for the first time
 		PuzzleSolver p = new PuzzleSolver(8);
 	}
 }
